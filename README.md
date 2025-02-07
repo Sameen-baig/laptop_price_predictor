@@ -1,4 +1,4 @@
-***Laptop-Price-Predictor***
+**Laptop-Price-Predictor**
 
 • Web-based application that predicts the price of the laptop according to the configuration input by user.
 • The project includes eight major stages of the ML life cycle to result in structured, practical business value.
@@ -16,4 +16,6 @@ Performance Metrics
 4. Cross Val Accuracy
 
 **Display**
+
 <img width="938" alt="display" src="https://github.com/user-attachments/assets/07dc4a78-ac04-4542-9053-6c0c82430274" />
+
