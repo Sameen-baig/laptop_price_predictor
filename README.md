@@ -1,9 +1,9 @@
-<img width="938" alt="display" src="https://github.com/user-attachments/assets/07dc4a78-ac04-4542-9053-6c0c82430274" />*Laptop-Price-Predictor*
+***Laptop-Price-Predictor***
 
 • Web-based application that predicts the price of the laptop according to the configuration input by user.
 • The project includes eight major stages of the ML life cycle to result in structured, practical business value.
 
-*Price Prediction*
+**Price Prediction**
 Predict the Price of laptop on the basis of;
 Context A dataset for 1300 laptop models. Content, Company Name, Product Name, Laptop Type, Screen Inches, Screen Resolution, CPU Model, RAM Characteristics, Memory, GPU Characteristics, Operating System, Laptop's Weight, Laptop's Price
 
@@ -15,7 +15,5 @@ Performance Metrics
 3. MSE
 4. Cross Val Accuracy
 
-*Display*
-![Uploading image.png…]()
-
-
+**Display**
+<img width="938" alt="display" src="https://github.com/user-attachments/assets/07dc4a78-ac04-4542-9053-6c0c82430274" />
